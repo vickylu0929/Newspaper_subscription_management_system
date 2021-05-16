@@ -1,0 +1,17 @@
+frmMain = 50, 50, 929, 457, , 8, 8, 883, 487, C
+frmLogin = 103, 74, 979, 481, , 13, 11, 884, 488, C
+frmAdministratorMenu = 132, 75, 1011, 482, , 9, 6, 888, 484, C
+frmUser = 135, 120, 1014, 545, , 117, 35, 996, 513, C
+frmAdministratorInput = 20, 12, 1094, 512, , 67, 69, 946, 546, C
+frmAdministratorQuery = 172, 50, 1051, 457, , 30, 0, 919, 473, C
+frmUserInput = 91, 105, 986, 528, , 4, 3, 899, 479, C
+frmNewspaperInput = 2, 63, 895, 486, , 9, 11, 938, 490, C
+frmUserQuery = 98, 49, 993, 472, , 17, 16, 912, 493, C
+frmNewspaperQuery = 129, 64, 1024, 487, , 59, 5, 987, 484, C
+frmAdministratorDelete = 82, 82, 977, 505, , 4, 11, 1228, 658, C
+frmUserDelete = 158, 93, 1053, 516, , 12, 5, 907, 482, C
+frmNewspaperDelete = 26, 51, 921, 474, , 16, 15, 911, 491, C
+frmSubscriptionDelete = 120, 58, 1015, 481, , 64, 58, 959, 534, C
+frmNewspaperSubscription = 162, 45, 1145, 611, , 465, 143, 1360, 620, C
+frmSubscribedNewspaper = 175, 97, 1070, 520, , 53, 85, 948, 564, C
+frmPersonQuery = 109, 78, 1004, 501, , 10, 10, 905, 484, C
